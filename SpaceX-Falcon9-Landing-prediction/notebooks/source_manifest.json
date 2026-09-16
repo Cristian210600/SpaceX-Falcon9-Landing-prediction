@@ -1,0 +1,44 @@
+[
+  {
+    "source_filename": "jupyter-labs-spacex-data-collection-api (1)(2).ipynb",
+    "repository_filename": "01_data_collection_api.ipynb",
+    "sha256": "17c56c47e26896cb700fc170a798741e1403d6787cbbc8adb5136f71f6e84e1f",
+    "code_cells": 29
+  },
+  {
+    "source_filename": "jupyter-labs-webscraping (1)(2).ipynb",
+    "repository_filename": "02_web_scraping.ipynb",
+    "sha256": "f088a2da79b622596b88ba1186eafd110186b01ad666bf21a74e1cbe1c2ccb9e",
+    "code_cells": 15
+  },
+  {
+    "source_filename": "labs-jupyter-spacex-Data wrangling (1)(2).ipynb",
+    "repository_filename": "03_data_wrangling.ipynb",
+    "sha256": "ef997d8a938a1dbb63f4e2f0db043689f37e396eba87cc6da8a496a478922c84",
+    "code_cells": 14
+  },
+  {
+    "source_filename": "jupyter-labs-eda-sql-coursera_sqllite(2).ipynb",
+    "repository_filename": "04_eda_sql.ipynb",
+    "sha256": "81b93014cbbff8fcfa6a09fc268bb774a2304d343a01fe201e938a03420d4081",
+    "code_cells": 19
+  },
+  {
+    "source_filename": "edadataviz(2).ipynb",
+    "repository_filename": "05_eda_visualization.ipynb",
+    "sha256": "4f2f76dc690f72c68be5c5a3cc4686ab5941c7e2140739ac3a687266db9fa006",
+    "code_cells": 14
+  },
+  {
+    "source_filename": "lab_jupyter_launch_site_location (1)(2).ipynb",
+    "repository_filename": "06_folium_launch_sites.ipynb",
+    "sha256": "43bc0598e4e69cbb078125949a5785483177024c74c4dbe8cfadeb79ec550009",
+    "code_cells": 21
+  },
+  {
+    "source_filename": "SpaceX_Machine Learning Prediction_Part_5 (2)(2).ipynb",
+    "repository_filename": "07_machine_learning.ipynb",
+    "sha256": "d73ed0c26e90f8b4fde37fe8db7e06807ab36d059e5d9f7e6205dc6c54dd17d6",
+    "code_cells": 32
+  }
+]
